@@ -1,0 +1,50 @@
+
+ ARRAY :-
+ 
+1. Find the largest and smallest number in a given int Array.
+ 
+ 2. Find the repeated words from an given paragraph.
+
+ 3. Extract the special characters present in the given paragraph
+
+    Sample input -  "A wiki (/wIKi/ (listen) WIK-ee) is an online audience, using a web browser.
+    A #typical wiki contain's multiple project, and could be either open to the public or limited to use
+    within an organization for maintaining its internal knowledge $300 base."
+
+   Output - '$-
+
+ 4. Sort an numerical array using bubble sort
+ 
+ 5. Perform 2by2 Matrix Addition
+  
+ 6. Perform 3by3 Matrix Multiplication 
+
+ LIST :-
+    
+ 7. Find the repeated words from an given paragraph.
+ 8. Create program that uses Hashmap and perform following operation
+     i) store key as Email,Value as Customer Object
+     ii) show case the put and get method
+     iii) show case the hash code implementation
+     iv) Sort the keys
+      v) Sort the values(based on Customer firstname and lastname)
+      vi) Show case the iteration of objects
+
+ 9. Create Treemap, and add the same customer object.showcase that ,while adding these 
+     objects the collection will internally sort the data
+
+10. We have a array of houses in a areas, link  all houses to next and prev houses linked list
+    
+    Show case the link list capability to find first and last house
+
+   Remove the last house
+    Add a new house in between 3 rd and 4th house
+ 
+    Prove that linked list is faster to add data when compared to ArrayList
+
+11.  Create a program that uses ArrayList and stored the customer object
+
+     Perform following activities
+       i) Sort the collection based on first name and dob
+       ii) Iterate the sorted collection
+       iii) Append the name with Mr for mens and Mrs for women candidates 
