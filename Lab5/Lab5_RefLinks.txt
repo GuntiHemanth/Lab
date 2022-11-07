@@ -1,0 +1,18 @@
+Ref links:-
+
+   File IO  :        1. https://www.guru99.com/buffered-reader-in-java.html
+
+                          2. https://www.programiz.com/java-programming/bufferedreader
+
+             	        3. https://www.edureka.co/blog/bufferedreader-in-java/ 
+
+
+  Functional         https://www.geeksforgeeks.org/functional-programming-in-java-with-examples/
+  Programming
+
+
+  Streams        https://www.baeldung.com/java-8-streams
+
+Other References
+i)        https://stackoverflow.com/questions/22845574/how-to-dynamically-do-filtering-in-java-8
+ii)       https://gist.github.com/stuart-marks/10076102
